@@ -18,6 +18,7 @@
     ],
     "gebruikers": [
         {
+            "id": "Jelmer.Groeneveld@roxit.nl",
             "externId": "Jelmer.Groeneveld@roxit.nl",
             "rollen":[
                 {
