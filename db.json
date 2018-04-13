@@ -1,3 +1,31 @@
 {
-    "rollen": []
+    "rollen": [
+        {
+            "id": 1,
+            "rol": "raadpleger",
+            "beschrijving": "Een raadpleger kan in SOD alleen raadplegen"
+        },
+        {
+            "id": 2,
+            "rol": "bewerker",
+            "beschrijving": "Een bewerker kan in SOD raadplegen en bewerken"
+        },
+        {
+            "id": 3,
+            "rol": "wachter",
+            "beschrijving": "Een wachter vecht met zwaarden totdat zijn machine klaar is met compileren"
+        }
+    ],
+    "gebruikers": [
+        {
+            "externId": "Jelmer.Groeneveld@roxit.nl",
+            "rollen":[
+                {
+                    "id": 3,
+                    "rol": "wachter",
+                    "beschrijving": "Een wachter vecht met zwaarden totdat zijn machine klaar is met compileren"
+                }
+            ]
+        }
+    ]
 }
